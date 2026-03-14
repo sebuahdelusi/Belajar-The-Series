@@ -1,0 +1,66 @@
+{
+  "ticker": "AADI.JK",
+  "company": "Adaro Andalan Indonesia Tbk.",
+  "analysis_date": "2026-03-02",
+  "period": "1y",
+  "close": 9975.0,
+  "score": 2,
+  "verdict": "\ud83d\udfe2 BUY / ACCUMULATE",
+  "rsi": 80.0,
+  "macd_hist": 69.0139,
+  "entry_ideal": 8827.77,
+  "entry_aggressive": 9945.08,
+  "entry_conservative": 8229.18,
+  "buy_zones": [
+    {
+      "price": 8827.77,
+      "pct": -11.5,
+      "label": "EMA 20 (dynamic support)"
+    },
+    {
+      "price": 8229.18,
+      "pct": -17.5,
+      "label": "EMA 50 (dynamic support)"
+    },
+    {
+      "price": 7458.72,
+      "pct": -25.23,
+      "label": "BB Lower (20,2)"
+    }
+  ],
+  "sl": 8280.18,
+  "tp1": 10200.0,
+  "tp2": 10196.75,
+  "tp3": 10744.34,
+  "risk_reward": 2.5,
+  "backtest": {
+    "total_return_pct": 17.56,
+    "buy_hold_pct": 60.43,
+    "n_trades": 5,
+    "win_rate": 20.0
+  },
+  "support_levels": [
+    6000.57,
+    6229.33,
+    6428.76
+  ],
+  "resistance_levels": [
+    10200.0
+  ],
+  "fundamental": {
+    "score": 9,
+    "max_score": 11,
+    "score_pct": 81.8,
+    "verdict": "\ud83d\udfe2 FUNDAMENTAL KUAT \u2014 Layak untuk swing trade",
+    "pe_ttm": 6.4,
+    "pe_forward": 5.97,
+    "pb": 1.33,
+    "roe_pct": 22.77,
+    "der": 0.28,
+    "current_ratio": 2.32,
+    "net_margin_pct": 14.83,
+    "div_yield_pct": 11.63,
+    "rev_growth_pct": -13.2,
+    "earn_growth_pct": -33.8
+  }
+}

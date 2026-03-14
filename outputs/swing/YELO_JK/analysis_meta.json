@@ -1,0 +1,52 @@
+{
+  "ticker": "YELO.JK",
+  "company": "PT Yelooo Integra Datanet Tbk",
+  "analysis_date": "2026-02-27",
+  "period": "1y",
+  "close": 124.0,
+  "score": 2,
+  "verdict": "\ud83d\udfe2 BUY / ACCUMULATE",
+  "rsi": 73.2,
+  "macd_hist": 6.0455,
+  "entry_ideal": 114.0,
+  "entry_aggressive": 123.63,
+  "entry_conservative": 109.99,
+  "buy_zones": [
+    {
+      "price": 114.0,
+      "pct": -8.06,
+      "label": "Support #1 (1x sentuhan)"
+    },
+    {
+      "price": 109.99,
+      "pct": -11.3,
+      "label": "EMA 20 (dynamic support)"
+    },
+    {
+      "price": 108.66,
+      "pct": -12.37,
+      "label": "EMA 50 (dynamic support)"
+    }
+  ],
+  "sl": 88.59,
+  "tp1": 146.0,
+  "tp2": 177.52,
+  "tp3": 202.94,
+  "risk_reward": 2.5,
+  "backtest": {
+    "total_return_pct": 48.93,
+    "buy_hold_pct": 463.64,
+    "n_trades": 2,
+    "win_rate": 50.0
+  },
+  "support_levels": [
+    18.0,
+    19.0,
+    20.0,
+    114.0
+  ],
+  "resistance_levels": [
+    146.0,
+    150.0
+  ]
+}

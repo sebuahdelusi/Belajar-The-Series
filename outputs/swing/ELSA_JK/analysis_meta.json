@@ -1,0 +1,66 @@
+{
+  "ticker": "ELSA.JK",
+  "company": "PT Elnusa Tbk",
+  "analysis_date": "2026-03-02",
+  "period": "1y",
+  "close": 930.0,
+  "score": 2,
+  "verdict": "\ud83d\udfe2 BUY / ACCUMULATE",
+  "rsi": 80.0,
+  "macd_hist": 7.4753,
+  "entry_ideal": 773.07,
+  "entry_aggressive": 927.21,
+  "entry_conservative": 674.02,
+  "buy_zones": [
+    {
+      "price": 773.07,
+      "pct": -16.87,
+      "label": "EMA 20 (dynamic support)"
+    },
+    {
+      "price": 674.02,
+      "pct": -27.52,
+      "label": "EMA 50 (dynamic support)"
+    },
+    {
+      "price": 634.86,
+      "pct": -31.74,
+      "label": "BB Lower (20,2)"
+    }
+  ],
+  "sl": 692.47,
+  "tp1": 1050.0,
+  "tp2": 974.57,
+  "tp3": 1055.16,
+  "risk_reward": 2.5,
+  "backtest": {
+    "total_return_pct": 77.63,
+    "buy_hold_pct": 151.23,
+    "n_trades": 1,
+    "win_rate": 100.0
+  },
+  "support_levels": [
+    357.28,
+    374.78,
+    460.0
+  ],
+  "resistance_levels": [
+    1050.0
+  ],
+  "fundamental": {
+    "score": 5,
+    "max_score": 11,
+    "score_pct": 45.5,
+    "verdict": "\ud83d\udd34 FUNDAMENTAL LEMAH \u2014 Kurangi ukuran posisi",
+    "pe_ttm": 9.85,
+    "pe_forward": 18.75,
+    "pb": 1.32,
+    "roe_pct": 13.9,
+    "der": 4.93,
+    "current_ratio": 1.49,
+    "net_margin_pct": 4.85,
+    "div_yield_pct": 4.6,
+    "rev_growth_pct": 5.3,
+    "earn_growth_pct": 75.6
+  }
+}

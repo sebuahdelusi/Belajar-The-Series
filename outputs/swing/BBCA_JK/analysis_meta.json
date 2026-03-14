@@ -1,0 +1,34 @@
+{
+  "ticker": "BBCA.JK",
+  "company": "PT Bank Central Asia Tbk",
+  "analysis_date": "2026-02-27",
+  "period": "1y",
+  "close": 7175.0,
+  "score": 0,
+  "verdict": "\u26aa WAIT / NETRAL",
+  "rsi": 24.5,
+  "macd_hist": 4.3713,
+  "sl": 6950.0,
+  "tp1": 7475.0,
+  "tp2": 7625.0,
+  "backtest": {
+    "total_return_pct": 1.15,
+    "buy_hold_pct": -12.67,
+    "n_trades": 1,
+    "win_rate": 100.0
+  },
+  "support_levels": [
+    6208.57,
+    6375.0,
+    6450.18,
+    6691.79,
+    6812.59
+  ],
+  "resistance_levels": [
+    7375.0,
+    7649.43,
+    7925.0,
+    8046.81,
+    8175.0
+  ]
+}

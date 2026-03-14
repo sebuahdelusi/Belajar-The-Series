@@ -1,0 +1,36 @@
+{
+  "ticker": "YELO.JK",
+  "period": "2025-02-27 to 2026-02-27",
+  "last_price": 124.0,
+  "trend": "BULLISH",
+  "rsi": 57.46376808026663,
+  "verdict": "\ud83d\udfe2 STRONG BUY",
+  "entry_ideal": 114.0,
+  "entry_aggressive": 123.63,
+  "entry_conservative": 109.99,
+  "stop_loss": 88.59,
+  "tp1": 152.12,
+  "tp2": 177.52,
+  "tp3": 202.94,
+  "risk_reward": 2.5,
+  "buy_zones": [
+    {
+      "price": 114.0,
+      "pct": -8.06,
+      "label": "Support #1 (1x sentuhan)"
+    },
+    {
+      "price": 109.99,
+      "pct": -11.3,
+      "label": "EMA 20 (dynamic support)"
+    },
+    {
+      "price": 108.66,
+      "pct": -12.37,
+      "label": "EMA 50 (dynamic support)"
+    }
+  ],
+  "backtest_return_pct": 0.0,
+  "buy_hold_return_pct": 463.64,
+  "total_trades": 0
+}

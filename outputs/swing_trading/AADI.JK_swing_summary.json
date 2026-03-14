@@ -1,0 +1,36 @@
+{
+  "ticker": "AADI.JK",
+  "period": "2025-03-03 to 2026-03-02",
+  "last_price": 10025.0,
+  "trend": "BULLISH",
+  "rsi": 73.7755421650971,
+  "verdict": "\ud83d\udfe2 BUY / ACCUMULATE",
+  "entry_ideal": 8832.53,
+  "entry_aggressive": 9994.92,
+  "entry_conservative": 8231.06,
+  "stop_loss": 8287.38,
+  "tp1": 9650.26,
+  "tp2": 10195.41,
+  "tp3": 10740.57,
+  "risk_reward": 2.5,
+  "buy_zones": [
+    {
+      "price": 8832.53,
+      "pct": -11.89,
+      "label": "EMA 20 (dynamic support)"
+    },
+    {
+      "price": 8231.06,
+      "pct": -17.89,
+      "label": "EMA 50 (dynamic support)"
+    },
+    {
+      "price": 7450.53,
+      "pct": -25.68,
+      "label": "BB Lower (20,2)"
+    }
+  ],
+  "backtest_return_pct": 0.0,
+  "buy_hold_return_pct": 61.24,
+  "total_trades": 0
+}
